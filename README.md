@@ -1,2 +1,2 @@
-# test1
-Repo for practising
+## Hello there! 
+This repo was created for practising
